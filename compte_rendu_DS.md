@@ -1,4 +1,15 @@
+# Nabila ABLAD
 
+*Numéro d'étudiant* : 22006482
+
+*Classe* : CAC1
+
+
+<img src="PHOTO.jpg" style="height:464px;margin-right:432px"/>
+
+<br clear="left"/>
+
+---
 # 📘 COMPTE RENDU DATA SCIENCE — VERSION MARKDOWN
 
 ## 1. Contexte Métier et Mission  
